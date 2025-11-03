@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alfredo</h1>
+<h1 align="center">👋 Hi, I'm Rodion</h1>
 
 <p align="center">
   Developer of Discord & Telegram bots, and Unity scripts<br>
@@ -12,7 +12,7 @@
 Want to work together, commission a bot, or request Unity scripting?
 Check out my website:
 
-🔗 **[bpykaxtpaba.github.io](https://bpykaxtpaba.github.io/BPYKAXTPABA/)**
+🔗 **[rodionbdev.github.io](https://rodionbdev.github.io/Rodionbdev/)**
 
 There you'll find:
 - ✅ What I do (Services)
@@ -33,8 +33,8 @@ There you'll find:
 
 | Project | Description |
 |--------|-------------|
-| [Korchi](https://github.com/BPYKAXTPABA/Korchi-Bot) | Advanced Discord moderation bot with SQLite and full command suite |
-| [Alfredo_2033](https://bpykaxtpaba.github.io/DISCORD_BOT_PRIVACY/) | Early-generation C# moderation bot |
+| [Korchi](https://github.com/Rodionbdev/Korchi-Bot) | Advanced Discord moderation bot with SQLite and full command suite |
+| [Alfredo_2033](https://github.com/Rodionbdev/Discord_bot) | Early-generation C# moderation bot |
 | Unity Scripts | Custom C# components for gameplay logic and UI (on website) |
 
 ---
@@ -42,12 +42,12 @@ There you'll find:
 ## 📬 Contact
 
 Fastest ways to reach me:
-- Telegram: [@TPABABPYKAX](https://t.me/TPABABPYKAX)
-- Discord: `godlessgunboy` or `1255968122754699305`
-- Email: [formydota231@gmail.com](mailto:formydota231@gmail.com)
+- Telegram: [@Rodionbdev](https://t.me/Rodionbdev)
+- Discord: `1255968122754699305`
+- Email: [rodionbabak1@gmail.com](mailto:rodionbabak1@gmail.com)
 
 ---
 
 <p align="center">
-  <sub>© 2025 Alfredo. All rights reserved.</sub>
+  <sub>© 2025 Rodion. All rights reserved.</sub>
 </p>
